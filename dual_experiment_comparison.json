@@ -1,0 +1,129 @@
+{
+  "samples": [
+    {
+      "id": 0,
+      "question": "A research institution conducted a statistical analysis of two linearly related variables $$x$$ and $$y$$, and obtained the following data:  From the data in th",
+      "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0000.png",
+      "ground_truth": "B",
+      "base_pred": "A",
+      "exp1_pred": "A",
+      "exp2_pred": "C",
+      "base_correct": false,
+      "exp1_correct": false,
+      "exp2_correct": false
+    },
+    {
+      "id": 1,
+      "question": "Among the following geometric solids, the one that has two identical views and another different one is ( ) \nA. 1.2.\nB. 2.3.\nC. 2.4.\nD. 3.4.",
+      "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0001.png",
+      "ground_truth": "B",
+      "base_pred": "D",
+      "exp1_pred": "C",
+      "exp2_pred": "D",
+      "base_correct": false,
+      "exp1_correct": false,
+      "exp2_correct": false
+    },
+    {
+      "id": 2,
+      "question": "It is known that the advertising expenditure $$x$$ (unit: ten thousand yuan) and sales revenue $$y$$ (unit: ten thousand yuan) of a certain product have the fol",
+      "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0002.png",
+      "ground_truth": "D",
+      "base_pred": "C",
+      "exp1_pred": "C",
+      "exp2_pred": "D",
+      "base_correct": false,
+      "exp1_correct": false,
+      "exp2_correct": true
+    },
+    {
+      "id": 3,
+      "question": "Students have played with kaleidoscopes, which are made up of three equal-length glass pieces. As shown in the figure, it is a pattern seen in a kaleidoscope. A",
+      "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0003.png",
+      "ground_truth": "B",
+      "base_pred": "A",
+      "exp1_pred": "Let's reason through this problem step-by-step.\n\nStep 1: Identify the given information\n- The kaleid",
+      "exp2_pred": "D",
+      "base_correct": false,
+      "exp1_correct": false,
+      "exp2_correct": false
+    },
+    {
+      "id": 4,
+      "question": "If \\sqrt{a^{3}+3 a^{2}} = -a , then the range of values for a is ()\nA. -3\u2264a\u22640\nB. \u22640\nC. \uff1c0\nD. \u2265-3",
+      "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0004.png",
+      "ground_truth": "A",
+      "base_pred": "C",
+      "exp1_pred": "A",
+      "exp2_pred": "C",
+      "base_correct": false,
+      "exp1_correct": true,
+      "exp2_correct": false
+    },
+    {
+      "id": 5,
+      "question": "To understand the height situation of 300 male students in a middle school, a random sample of male students was selected for height measurement. After organizi",
+      "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0005.png",
+      "ground_truth": "C",
+      "base_pred": "C",
+      "exp1_pred": "To estimate the number of male students in the school whose height is between 169.5cm and 174.5cm, w",
+      "exp2_pred": "D",
+      "base_correct": true,
+      "exp1_correct": false,
+      "exp2_correct": false
+    },
+    {
+      "id": 6,
+      "question": "As shown in the figure, $\\text{AB} \\bot \\text{b}$, $\\text{DC} \\bot \\text{b}$, $\\text{CA} \\bot \\text{a}$, $\\text{ED} \\bot \\text{b}$, then the number of line segm",
+      "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0006.png",
+      "ground_truth": "D",
+      "base_pred": "D",
+      "exp1_pred": "A",
+      "exp2_pred": "6",
+      "base_correct": true,
+      "exp1_correct": false,
+      "exp2_correct": false
+    },
+    {
+      "id": 7,
+      "question": "A store is preparing to order a type of packaging bag for rice. After market research, the following statistical chart was made. Which packaging is the most sui",
+      "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0007.png",
+      "ground_truth": "A",
+      "base_pred": "D",
+      "exp1_pred": "D",
+      "exp2_pred": "D",
+      "base_correct": false,
+      "exp1_correct": false,
+      "exp2_correct": false
+    },
+    {
+      "id": 8,
+      "question": "The graphs of the functions $y=a^x$ ($a > 0$, $a \\ne 1$) and $y=x^b$ are shown in the figure. Which of the following inequalities must be true?  \nA. $b^a > 0$\nB",
+      "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0008.png",
+      "ground_truth": "D",
+      "base_pred": "D",
+      "exp1_pred": "The graph of $y=a^x$ is a hyperbola with center at $(0,0)$ and vertices at $(a,0)$ and $(-a,0)$. The",
+      "exp2_pred": "A",
+      "base_correct": true,
+      "exp1_correct": false,
+      "exp2_correct": false
+    },
+    {
+      "id": 9,
+      "question": "As shown in the figure, the area of the small square ABCD is 1. By extending each side by one time its length, a new square A$_{1}$B$_{1}$C$_{1}$D$_{1}$ is form",
+      "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0009.png",
+      "ground_truth": "C",
+      "base_pred": "The answer is: 5$^{2019}$",
+      "exp1_pred": "A",
+      "exp2_pred": "C",
+      "base_correct": false,
+      "exp1_correct": false,
+      "exp2_correct": true
+    }
+  ],
+  "accuracy": {
+    "base": 0.3,
+    "exp1": 0.1,
+    "exp2": 0.2
+  }
+}

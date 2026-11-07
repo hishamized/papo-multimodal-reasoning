@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "problem": "<image>A research institution conducted a statistical analysis of two linearly related variables $$x$$ and $$y$$, and obtained the following data:  From the data in the table, the linear regression equation of $$y$$ with respect to $$x$$ is $$\\hat y=-0.7\\hat x+a$$. Then, $$a$$ equals ( ).\nA. $$10.5$$\nB. $$5.25$$\nC. $$5.2$$\nD. $$5.15$$",
+    "answer": "B",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0000.png"
+  },
+  {
+    "id": 1,
+    "problem": "<image>Among the following geometric solids, the one that has two identical views and another different one is ( ) \nA. 1.2.\nB. 2.3.\nC. 2.4.\nD. 3.4.",
+    "answer": "B",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0001.png"
+  },
+  {
+    "id": 2,
+    "problem": "<image>It is known that the advertising expenditure $$x$$ (unit: ten thousand yuan) and sales revenue $$y$$ (unit: ten thousand yuan) of a certain product have the following corresponding data:  According to all the data provided in the table, the linear regression equation of $$y$$ and $$x$$ obtained by the method of least squares is $$\\hat{y}=6.5x+17.5$$. Then the value of $$m$$ in the table is ( )\nA. $$45$$\nB. $$50$$\nC. $$55$$\nD. $$60$$",
+    "answer": "D",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0002.png"
+  },
+  {
+    "id": 3,
+    "problem": "<image>Students have played with kaleidoscopes, which are made up of three equal-length glass pieces. As shown in the figure, it is a pattern seen in a kaleidoscope. All the small triangles in the figure are congruent equilateral triangles. The rhombus $AEFG$ can be considered as the result of rotating rhombus $ABCD$ around point $A$ ( ). \nA. 60\u00b0 clockwise\nB. 120\u00b0 clockwise\nC. 60\u00b0 counterclockwise\nD. 120\u00b0 counterclockwise",
+    "answer": "B",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0003.png"
+  },
+  {
+    "id": 4,
+    "problem": "<image>If \\sqrt{a^{3}+3 a^{2}} = -a , then the range of values for a is ()\nA. -3\u2264a\u22640\nB. \u22640\nC. \uff1c0\nD. \u2265-3",
+    "answer": "A",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0004.png"
+  },
+  {
+    "id": 5,
+    "problem": "<image>To understand the height situation of 300 male students in a middle school, a random sample of male students was selected for height measurement. After organizing the data, a frequency distribution histogram was drawn (as shown in the figure). Estimate the number of male students in the school whose height is between 169.5cm and 174.5cm. \nA. 12\nB. 48\nC. 72\nD. 96",
+    "answer": "C",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0005.png"
+  },
+  {
+    "id": 6,
+    "problem": "<image>As shown in the figure, $\\text{AB} \\bot \\text{b}$, $\\text{DC} \\bot \\text{b}$, $\\text{CA} \\bot \\text{a}$, $\\text{ED} \\bot \\text{b}$, then the number of line segments whose lengths can represent the distance from a point to a line is ()  \nA. 4\nB. 6\nC. 7\nD. 8",
+    "answer": "D",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0006.png"
+  },
+  {
+    "id": 7,
+    "problem": "<image>A store is preparing to order a type of packaging bag for rice. After market research, the following statistical chart was made. Which packaging is the most suitable? ( ). \nA. $$2{\\rm Kg}/$$ per bag\nB. $$3{\\rm Kg}/$$ per bag\nC. $$4{\\rm Kg}/$$ per bag\nD. $$5{\\rm Kg}/$$ per bag",
+    "answer": "A",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0007.png"
+  },
+  {
+    "id": 8,
+    "problem": "<image>The graphs of the functions $y=a^x$ ($a > 0$, $a \\ne 1$) and $y=x^b$ are shown in the figure. Which of the following inequalities must be true?  \nA. $b^a > 0$\nB. $a+b > 0$\nC. $ab > 1$\nD. $\\log_a 2 > b$",
+    "answer": "D",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0008.png"
+  },
+  {
+    "id": 9,
+    "problem": "<image>As shown in the figure, the area of the small square ABCD is 1. By extending each side by one time its length, a new square A$_{1}$B$_{1}$C$_{1}$D$_{1}$ is formed; by extending the sides of square A$_{1}$B$_{1}$C$_{1}$D$_{1}$ by one time their length, square A$_{2}$B$_{2}$C$_{2}$D$_{2}$ is formed; and so on... What is the area of square A$_{2019}$B$_{2019}$C$_{2019}$D$_{2019}$?  \nA. 5$^{2017}$\nB. 5$^{2018}$\nC. 5$^{2019}$\nD. 5$^{2020}$",
+    "answer": "C",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0009.png"
+  },
+  {
+    "id": 10,
+    "problem": "<image>As shown in the figure, AB\u2225CD. According to the angles marked in the figure, which of the following relationships is true? \nA. \u22201=\u22203\nB. \u22202+\u22203=180\u00b0\nC. \u22202+\u22204<180\u00b0\nD. \u22203+\u22205=180\u00b0",
+    "answer": "D",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0010.png"
+  },
+  {
+    "id": 11,
+    "problem": "<image>The output of the program shown in the figure is ( ) \nA. $2$, $1$\nB. $2$, $2$\nC. $1$, $2$\nD. $1$, $1$",
+    "answer": "A",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0011.png"
+  },
+  {
+    "id": 12,
+    "problem": "<image>In the figure, in parallelogram ABCD, the angle bisector of \u2220ABC intersects side CD at point E, and \u2220A = 130\u00b0. Then the measure of \u2220BEC is ( )  \nA. 20\u00b0\nB. 25\u00b0\nC. 30\u00b0\nD. 50\u00b0",
+    "answer": "B",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0012.png"
+  },
+  {
+    "id": 13,
+    "problem": "<image>In the figure, the number of consecutive interior angles is ( ).  \nA. $$1$$ pair\nB. $$2$$ pairs\nC. $$3$$ pairs\nD. $$4$$ pairs",
+    "answer": "D",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0013.png"
+  },
+  {
+    "id": 14,
+    "problem": "<image>Given that the real numbers $$a$$ and $$b$$ correspond to points on the number line as shown in the figure, which of the following expressions is correct?  \nA. $$a \\cdot b > 0$$\nB. $$a - b > 0$$\nC. $$a < -b$$\nD. $$|a| < |b|$$",
+    "answer": "B",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0014.png"
+  },
+  {
+    "id": 15,
+    "problem": "<image>As shown in the figure, the line y=kx+b passes through points A(3,1) and B(6,0). The solution set of the inequality system 0 < kx + b < 13x is ()  \nA. 3 < x < 6\nB. x > 3\nC. x < 6\nD. x > 3 or x < 6",
+    "answer": "A",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0015.png"
+  },
+  {
+    "id": 16,
+    "problem": "<image>In a survey about the relationship between gender and lying, the following data was obtained. Based on the data in the table, which of the following conclusions is correct? ( ) \nA. In this survey, there is a 95% confidence that lying is related to gender\nB. In this survey, there is a 99% confidence that lying is related to gender\nC. In this survey, there is a 99.5% confidence that lying is related to gender\nD. In this survey, there is no sufficient evidence to show that lying is related to gender",
+    "answer": "D",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0016.png"
+  },
+  {
+    "id": 17,
+    "problem": "<image>The figure below shows a $6\\times 6$ grid. In $\\Delta ABC$, $\\Delta {A}'{B}'{C}'$, and $\\Delta {{A}'}'{{B}'}'{{C}'}'$, the number of right-angled triangles is ( )  \nA. $0$\nB. $1$\nC. $2$\nD. $3$",
+    "answer": "C",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0017.png"
+  },
+  {
+    "id": 18,
+    "problem": "<image>In the following program, when the input value of $$x$$ is $$\\pi$$, the computation result is ( ).  \nA. $$-2$$\nB. $$1$$\nC. $$\\pi$$\nD. $$2$$",
+    "answer": "A",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0018.png"
+  },
+  {
+    "id": 19,
+    "problem": "<image>The tide of a thousand years has not receded, and the wind rises to set sail again. To achieve the 'two centenary goals' and the great rejuvenation of the Chinese nation's Chinese Dream, Harbin No.3 High School actively responds to the national call, continuously increasing the cultivation of outstanding talents. According to incomplete statistics:  Based on the table, the regression equation $\\hat{y}=\\hat{b}x+\\hat{a}$ has $\\hat{b}$ as 1.35. The number of students from the class of 2018 who won provincial first-class awards or higher in subject competitions is 63. According to this model, the predicted number of students from our school who will be admitted to prestigious world universities such as Tsinghua and Peking University this year is ( )\nA. 111\nB. 115\nC. 117\nD. 123",
+    "answer": "C",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/val_images/val_img_0019.png"
+  }
+]

@@ -1,0 +1,167 @@
+{
+  "benchmark": "PAPOGalaxy/PAPO_MMK12_test",
+  "evaluation_samples": 15,
+  "base_model": {
+    "name": "HuggingFaceTB/SmolVLM-500M-Instruct",
+    "accuracy": 0.2,
+    "avg_perception_kl": 0.4105068416024248
+  },
+  "papo_model": {
+    "name": "SmolVLM-500M + PAPO LoRA",
+    "accuracy": 0.06666666666666667,
+    "avg_perception_kl": 0.12334198084038993
+  },
+  "perception_grounding_gain": -0.28716486076203485,
+  "sample_comparisons": [
+    {
+      "id": 0,
+      "ground_truth": "B",
+      "base_pred": "C",
+      "papo_pred": "A",
+      "base_correct": false,
+      "papo_correct": false,
+      "base_kl": 0.0,
+      "papo_kl": 0.0
+    },
+    {
+      "id": 1,
+      "ground_truth": "B",
+      "base_pred": "C",
+      "papo_pred": "C",
+      "base_correct": false,
+      "papo_correct": false,
+      "base_kl": 0.6526068449020386,
+      "papo_kl": 0.11598504334688187
+    },
+    {
+      "id": 2,
+      "ground_truth": "D",
+      "base_pred": "D",
+      "papo_pred": "The value of $$m$$ in the table is 60.\nThe answer is: 60",
+      "base_correct": true,
+      "papo_correct": false,
+      "base_kl": 0.8857020735740662,
+      "papo_kl": 0.16790089011192322
+    },
+    {
+      "id": 3,
+      "ground_truth": "B",
+      "base_pred": "C",
+      "papo_pred": "The figure is a kaleidoscope, which is a pattern made up of three equal-length glass pieces. The small triangles in the figure are congruent equilateral triangles. The rhombus $AEFG$ can be considered as",
+      "base_correct": false,
+      "papo_correct": false,
+      "base_kl": 0.21251873672008514,
+      "papo_kl": 0.07986947149038315
+    },
+    {
+      "id": 4,
+      "ground_truth": "A",
+      "base_pred": "-3\\le a\\le0",
+      "papo_pred": "To find the range of values for a, we need to find the values of a that make the expression inside the square root equal to zero.\nWe have \\sqrt{a^{3}+3 a^{2}} = -a",
+      "base_correct": false,
+      "papo_correct": false,
+      "base_kl": 0.011113629676401615,
+      "papo_kl": 0.0024859944824129343
+    },
+    {
+      "id": 5,
+      "ground_truth": "C",
+      "base_pred": "D",
+      "papo_pred": "To estimate the number of male students in the school whose height is between 169.5cm and 174.5cm, we need to find the number of male students in the school whose height is between 1",
+      "base_correct": false,
+      "papo_correct": false,
+      "base_kl": 0.11677767336368561,
+      "papo_kl": 0.214493989944458
+    },
+    {
+      "id": 6,
+      "ground_truth": "D",
+      "base_pred": "D",
+      "papo_pred": "The answer is: 4",
+      "base_correct": true,
+      "papo_correct": false,
+      "base_kl": 0.43296587467193604,
+      "papo_kl": 0.12603464722633362
+    },
+    {
+      "id": 7,
+      "ground_truth": "A",
+      "base_pred": "D",
+      "papo_pred": "D",
+      "base_correct": false,
+      "papo_correct": false,
+      "base_kl": 1.030982255935669,
+      "papo_kl": 0.3749626576900482
+    },
+    {
+      "id": 8,
+      "ground_truth": "D",
+      "base_pred": "The graph of $y=a^x$ is a hyperbola. The graph of $y=x^b$ is a parabola. The graph of $y=a^x$ must be a hyperbola, so the",
+      "papo_pred": "The graph of $y=a^x$ is a hyperbola with center at $(0,0)$ and vertices at $(a,0)$ and $(-a,0)$. The graph of $y=x^b$",
+      "base_correct": false,
+      "papo_correct": false,
+      "base_kl": 0.3573594093322754,
+      "papo_kl": 0.09149223566055298
+    },
+    {
+      "id": 9,
+      "ground_truth": "C",
+      "base_pred": "D",
+      "papo_pred": "C",
+      "base_correct": false,
+      "papo_correct": true,
+      "base_kl": 0.16878625750541687,
+      "papo_kl": 0.04538995772600174
+    },
+    {
+      "id": 10,
+      "ground_truth": "D",
+      "base_pred": "To determine the relationships between the angles, we can use the fact that the sum of the angles in a triangle is 180\u00b0.\nLet's analyze the given information:\n- \u22201 = \u22202 + \u2220",
+      "papo_pred": "To determine the relationships between the angles in the figure, we can use the properties of parallel lines and transversals.\nLet's analyze the given information:\n- AB is parallel to CD.\n- \u22201 and \u2220",
+      "base_correct": false,
+      "papo_correct": false,
+      "base_kl": 0.19838747382164001,
+      "papo_kl": 0.05937658250331879
+    },
+    {
+      "id": 11,
+      "ground_truth": "A",
+      "base_pred": "The output of the program shown in the figure is $1$.",
+      "papo_pred": "C",
+      "base_correct": false,
+      "papo_correct": false,
+      "base_kl": 0.514218807220459,
+      "papo_kl": 0.2170567661523819
+    },
+    {
+      "id": 12,
+      "ground_truth": "B",
+      "base_pred": "B",
+      "papo_pred": "C",
+      "base_correct": true,
+      "papo_correct": false,
+      "base_kl": 0.1519891321659088,
+      "papo_kl": 0.061682574450969696
+    },
+    {
+      "id": 13,
+      "ground_truth": "D",
+      "base_pred": "B",
+      "papo_pred": "C",
+      "base_correct": false,
+      "papo_correct": false,
+      "base_kl": 0.45373445749282837,
+      "papo_kl": 0.1311585009098053
+    },
+    {
+      "id": 14,
+      "ground_truth": "B",
+      "base_pred": "D",
+      "papo_pred": "D",
+      "base_correct": false,
+      "papo_correct": false,
+      "base_kl": 0.9704599976539612,
+      "papo_kl": 0.1622404009103775
+    }
+  ]
+}

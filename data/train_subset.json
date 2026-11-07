@@ -1,0 +1,302 @@
+[
+  {
+    "id": 0,
+    "problem": "<image>\nIs the dotted line a line of symmetry?\nChoices:\n(A) yes\n(B) no",
+    "answer": "A",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0000.png"
+  },
+  {
+    "id": 1,
+    "problem": "<image>\nThe clocks show two things Lily did Tuesday evening. Which did Lily do earlier?\nChoices:\n(A) ate dinner\n(B) watched a movie",
+    "answer": "B",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0001.png"
+  },
+  {
+    "id": 2,
+    "problem": "<image>\nWhat fraction of the shapes are squares?\nChoices:\n(A) 5/10\n(B) 3/7\n(C) 3/9\n(D) 5/9",
+    "answer": "A",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0002.png"
+  },
+  {
+    "id": 3,
+    "problem": "<image>\nHow many cans are there?",
+    "answer": "100",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0003.png"
+  },
+  {
+    "id": 4,
+    "problem": "<image>\nHow many squares are there?",
+    "answer": "100",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0004.png"
+  },
+  {
+    "id": 5,
+    "problem": "<image>\nHow many diamonds are there?",
+    "answer": "20",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0005.png"
+  },
+  {
+    "id": 6,
+    "problem": "<image>\nIs the number of flowers even or odd?\nChoices:\n(A) odd\n(B) even",
+    "answer": "B",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0006.png"
+  },
+  {
+    "id": 7,
+    "problem": "<image>\nIs the number of diamonds even or odd?\nChoices:\n(A) odd\n(B) even",
+    "answer": "B",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0007.png"
+  },
+  {
+    "id": 8,
+    "problem": "<image>\nIs the number of triangles even or odd?\nChoices:\n(A) odd\n(B) even",
+    "answer": "B",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0008.png"
+  },
+  {
+    "id": 9,
+    "problem": "<image>\nHow many more squares are there than triangles?",
+    "answer": "4 - 3 = 1",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0009.png"
+  },
+  {
+    "id": 10,
+    "problem": "<image>\nAre there any shapes that are not pentagons?",
+    "answer": "No",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0010.png"
+  },
+  {
+    "id": 11,
+    "problem": "<image>\nIf you add 3 dots to the second row, how many dots will there be in total?",
+    "answer": "15",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0011.png"
+  },
+  {
+    "id": 12,
+    "problem": "<image>\nAre there more berries with two leaves or with one leaf?",
+    "answer": "Two leaves",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0012.png"
+  },
+  {
+    "id": 13,
+    "problem": "<image>\nHow many paper clips are partially visible?",
+    "answer": "2",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0013.png"
+  },
+  {
+    "id": 14,
+    "problem": "<image>\nHow many fish are facing right?",
+    "answer": "1",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0014.png"
+  },
+  {
+    "id": 15,
+    "problem": "<image>\nIf two shapes are added, how many sides will there be in total?",
+    "answer": "35",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0015.png"
+  },
+  {
+    "id": 16,
+    "problem": "<image>\nHow many crabs are there in the image?",
+    "answer": "4",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0016.png"
+  },
+  {
+    "id": 17,
+    "problem": "<image>\nHow many squares are larger than the smallest square?",
+    "answer": "2",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0017.png"
+  },
+  {
+    "id": 18,
+    "problem": "<image>\nIf each dog needs two bones, how many more bones are needed?",
+    "answer": "1",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0018.png"
+  },
+  {
+    "id": 19,
+    "problem": "<image>\nHow many birds are facing to the left?",
+    "answer": "5",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0019.png"
+  },
+  {
+    "id": 20,
+    "problem": "<image>\nIf the clock is set to run faster and gains 5 minutes every hour, what will be the time shown after one hour?",
+    "answer": "4:05",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0020.png"
+  },
+  {
+    "id": 21,
+    "problem": "<image>\nWhat is the ratio of buckets to crabs in the image?",
+    "answer": "1:1",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0021.png"
+  },
+  {
+    "id": 22,
+    "problem": "<image>\nWhat is the difference in the number of cubes between the third and fourth largest structures?",
+    "answer": "0",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0022.png"
+  },
+  {
+    "id": 23,
+    "problem": "<image>\nHow many blue squares are there in the bottom right corner of the image?",
+    "answer": "1",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0023.png"
+  },
+  {
+    "id": 24,
+    "problem": "<image>\nIf you remove all the blue squares from the third row, how many blue squares will remain in the image?",
+    "answer": "5",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0024.png"
+  },
+  {
+    "id": 25,
+    "problem": "<image>\nWhat is the total number of objects visible in the image?",
+    "answer": "3",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0025.png"
+  },
+  {
+    "id": 26,
+    "problem": "<image>\nHow many more shapes are needed to fill half of the frame?",
+    "answer": "2",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0026.png"
+  },
+  {
+    "id": 27,
+    "problem": "<image>\nWhat is the ratio of the largest star to the smallest star?",
+    "answer": "2:1",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0027.png"
+  },
+  {
+    "id": 28,
+    "problem": "<image>\nWhat type of polygon are these shapes?",
+    "answer": "Octagon",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0028.png"
+  },
+  {
+    "id": 29,
+    "problem": "<image>\nWhat is the difference in the number of squares occupied by the top part of the letter 'R' before and after transformation?",
+    "answer": "0",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0029.png"
+  },
+  {
+    "id": 30,
+    "problem": "<image>\nHow many orange circles are there in the top half of the image?",
+    "answer": "3",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0030.png"
+  },
+  {
+    "id": 31,
+    "problem": "<image>\nIf the clock is set to a 24-hour format, what time would it display?",
+    "answer": "05:00",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0031.png"
+  },
+  {
+    "id": 32,
+    "problem": "<image>\nIf the spinner is spun 100 times, how many times can we expect it to land on green?",
+    "answer": "75",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0032.png"
+  },
+  {
+    "id": 33,
+    "problem": "<image>\nHow many faces does this shape have?",
+    "answer": "5",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0033.png"
+  },
+  {
+    "id": 34,
+    "problem": "<image>\nIf two lines of the same length as the given line are drawn, how many paper clips will be needed to measure them both?",
+    "answer": "6",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0034.png"
+  },
+  {
+    "id": 35,
+    "problem": "<image>\nAre there more triangles with the base at the top or the bottom?",
+    "answer": "Bottom",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0035.png"
+  },
+  {
+    "id": 36,
+    "problem": "<image>\nHow many shapes are both green and square?",
+    "answer": "2",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0036.png"
+  },
+  {
+    "id": 37,
+    "problem": "<image>\nHow many non-living objects are there in the sequence?",
+    "answer": "3",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0037.png"
+  },
+  {
+    "id": 38,
+    "problem": "<image>\nHow many minutes is it from the time shown on Chase's clock to the next half-hour mark?",
+    "answer": "30 minutes",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0038.png"
+  },
+  {
+    "id": 39,
+    "problem": "<image>\nIf Ed's clock was set to the same time as Chase's clock, how many minutes would Ed's clock need to be adjusted?",
+    "answer": "60 minutes",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0039.png"
+  },
+  {
+    "id": 40,
+    "problem": "<image>\nIf one heart represents a value of 5, what is the total value of all hearts in the image?",
+    "answer": "35",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0040.png"
+  },
+  {
+    "id": 41,
+    "problem": "<image>\nIs this shape symmetrical?",
+    "answer": "Yes",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0041.png"
+  },
+  {
+    "id": 42,
+    "problem": "<image>\nWhat is the total number of squares in both rows?",
+    "answer": "10",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0042.png"
+  },
+  {
+    "id": 43,
+    "problem": "<image>\nHow many distinct shapes can be identified in the image?",
+    "answer": "2",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0043.png"
+  },
+  {
+    "id": 44,
+    "problem": "<image>\nHow many shapes are both orange and circles?",
+    "answer": "3",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0044.png"
+  },
+  {
+    "id": 45,
+    "problem": "<image>\nWhat is the height of the letter G in grid squares?",
+    "answer": "5",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0045.png"
+  },
+  {
+    "id": 46,
+    "problem": "<image>\nIf Adam started playing in the snow at 8:30, how long has he been playing?",
+    "answer": "30 minutes",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0046.png"
+  },
+  {
+    "id": 47,
+    "problem": "<image>\nHow many dogs are between the first and last house?",
+    "answer": "4",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0047.png"
+  },
+  {
+    "id": 48,
+    "problem": "<image>\nHow many houses have a dog sitting next to them?",
+    "answer": "2",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0048.png"
+  },
+  {
+    "id": 49,
+    "problem": "<image>\nIf the pink triangles were removed, how many edges would the remaining shape have?",
+    "answer": "3",
+    "image_path": "/home/hishamized/.gemini/antigravity/scratch/papo_project/data/train_images/train_img_0049.png"
+  }
+]

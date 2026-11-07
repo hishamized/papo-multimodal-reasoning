@@ -1,18 +1,6 @@
+.venv/
+venv/
 __pycache__/
 *.pyc
-*/wandb/*
-
-# Large datasets
-*/datasets/*
-
-# Model outputs and checkpoints
-*/checkpoints/*
-
-# Common large files
-*.ckpt
-*.pth
-*.bin
-*.safetensors
-*.h5
-
-.vscode
+.cache/
+.DS_Store
